@@ -9,7 +9,7 @@ function ProductCard() {
         >
             <a href="#">
                 <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                    Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport
+                    Nike Air Max 270
                 </h5>
             </a>
             <div className="mb-5 mt-2.5 flex items-center">
@@ -59,7 +59,7 @@ function ProductCard() {
             </div>
             <div className="flex items-center justify-between">
                 <span className="text-3xl font-bold text-gray-900 dark:text-white">
-                    $599
+                    $129.99
                 </span>
                 <a
                     href="#"
